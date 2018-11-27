@@ -279,7 +279,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "FrmNotepad";
-            this.Text = "MyNotepad";
+            this.Text = "TinyNotepad";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmNotepad_FormClosing);
             this.Load += new System.EventHandler(this.FrmNotepad_Load);
             this.menuStrip1.ResumeLayout(false);
