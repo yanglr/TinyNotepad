@@ -4,6 +4,7 @@ TinyNotepad, developed in C#, generate related installer
 
 
 **MainUI:**
+
 ![Main Page](https://raw.githubusercontent.com/yanglr/TinyNotepad/master/screenshots/MainUI.png)
 
 
@@ -15,6 +16,7 @@ TinyNotepad, developed in C#, generate related installer
 **Format:** Font
 
 **Notify Icon** in the Taskbar: contain options - Hide, Back to Main, Blinking switch, Exit
+
 ![NotifyIcon](https://raw.githubusercontent.com/yanglr/TinyNotepad/master/screenshots/IconInTaskbar.png)
 
 
