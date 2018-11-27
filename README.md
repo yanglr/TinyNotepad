@@ -19,6 +19,7 @@ The selected font can be seen below the text content, user can also see the curr
 
 ![NotifyIcon](https://raw.githubusercontent.com/yanglr/TinyNotepad/master/screenshots/IconInTaskbar.png)
 
+The notifyIcon can blink if user clicks the switch option.
 
 Main UI can scale, click "X" in the right top corner can also close the program.
 
