@@ -43,7 +43,7 @@ Main UI can scale, click "X" in the right top corner can also close the program.
 
 - Open Recent
 - Word wrap
-- Show current line number
+- Show current line number of mouse cursor
 
 
 
