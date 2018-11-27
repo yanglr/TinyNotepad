@@ -37,7 +37,7 @@ Main UI can scale, click "X" in the right top corner can also close the program.
 
 ![step4](https://raw.githubusercontent.com/yanglr/TinyNotepad/master/screenshots/Inno-shot4.png)
 
-
+The result installer: [TinyNotepad-Setup.exe](https://raw.githubusercontent.com/yanglr/TinyNotepad/master/Output/TinyNotepad-Setup.exe)
 
 ### ToDo:
 
