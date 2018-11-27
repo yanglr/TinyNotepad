@@ -14,6 +14,7 @@ TinyNotepad, developed in C#, generate related installer
 **File:** contain options - Open, Save, Save as, Close, Exit
 
 **Format:** Font
+The selected font can be seen below the text content, user can also see the current time.
 
 **Notify Icon** in the Taskbar: contain options - Hide, Back to Main, Blinking switch, Exit
 
