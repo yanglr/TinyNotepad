@@ -1,6 +1,5 @@
 # TinyNotepad
-TinyNotepad, developed in C#, generate related installer
-
+TinyNotepad is developed with Windows Froms in C# with basic functionalities of **Windows Notepad**, finally we can generate related installer.
 
 
 **MainUI:**
